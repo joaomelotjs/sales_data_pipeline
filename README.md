@@ -37,14 +37,17 @@ Projeto de engenharia de dados desenvolvido em Python com o objetivo de simular 
 
 Este projeto demonstra habilidades práticas em:
 
-- Manipulação de dados
-- Criação de pipelines
-- Automação de processos
-- Geração de insights a partir de dados
+
+O projeto executa um pipeline completo de dados:
+
+1. Extração de arquivos CSV
+2. Transformação e limpeza dos dados
+3. Armazenamento em banco SQLite
+4. Geração de relatórios em Excel
+5. Criação de visualizações gráficas
 
 ---
 
 ## ▶️ Como executar
 
-```bash
 python test.py
