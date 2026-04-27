@@ -45,6 +45,29 @@ Este projeto demonstra habilidades práticas em:
 
 ---
 
-## ▶️ Como executar
+## ▶️ Como executar o projeto
 
-python test.py
+1. Clone o repositório:
+
+git clone https://github.com/joaomelotjs/sales_data_pipeline.git
+
+2. Acesse a pasta do projeto:
+
+cd sales_data_pipeline
+
+3. Crie um ambiente virtual:
+
+python -m venv venv
+
+4. Ative o ambiente:
+
+Windows:
+venv\Scripts\activate
+
+5. Instale as dependências:
+
+pip install -r requirements.txt
+
+6. Execute o pipeline:
+
+python -m src.pipeline
