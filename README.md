@@ -1,6 +1,7 @@
 # 📊 Sales Data Pipeline
 
-Projeto de engenharia de dados desenvolvido em Python com o objetivo de simular um pipeline completo de dados, desde a ingestão até a geração de relatórios e visualizações.
+Este pipeline simula o processamento de dados de vendas de uma empresa,
+automatizando a ingestão, transformação e geração de insights para apoio à decisão.
 
 ---
 
