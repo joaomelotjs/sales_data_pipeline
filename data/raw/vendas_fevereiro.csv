@@ -1,0 +1,6 @@
+data,produto,categoria,preco,quantidade,cidade
+2024-02-01,Notebook,Eletronicos,3400,1,Sao Paulo
+2024-02-02,Mouse,Eletronicos,75,6,Rio de Janeiro
+2024-02-03,Cadeira,Moveis,950,2,Belo Horizonte
+2024-02-04,Mesa,Moveis,1100,1,Sao Paulo
+2024-02-05,Fone de Ouvido,Eletronicos,180,3,Curitiba
